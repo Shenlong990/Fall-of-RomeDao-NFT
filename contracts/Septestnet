@@ -1,0 +1,1316 @@
+
+
+0xeb46dead6afa9bbb7a4486b327a1c03c5b511834
+
+60a06040819052600060808190526200001b91600891620001ff565b5060408051808201909152600580825264173539b7b760d91b60209092019182526200004a91600991620001ff565b506000600b556109c4600c556001600d55600e805461ffff191690553480156200007357600080fd5b50604080518082018252600f81526e2330b6361037b3102937b6b2903b1960891b6020808301918252835180850190945260058452642927a6a29960d91b908401528151919291620000c891600091620001ff565b508051620000de906001906020840190620001ff565b505050620000fb620000f56200012560201b60201c565b62000129565b6200011f604051806060016040528060358152602001620023bf603591396200017b565b620002e2565b3390565b600680546001600160a01b038381166001600160a01b0319831681179093556040519116919082907f8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e090600090a35050565b620001856200019e565b80516200019a90600a906020840190620001ff565b5050565b6006546001600160a01b03163314620001fd5760405162461bcd60e51b815260206004820181905260248201527f4f776e61626c653a2063616c6c6572206973206e6f7420746865206f776e6572604482015260640160405180910390fd5b565b8280546200020d90620002a5565b90600052602060002090601f0160209004810192826200023157600085556200027c565b82601f106200024c57805160ff19168380011785556200027c565b828001600101855582156200027c579182015b828111156200027c5782518255916020019190600101906200025f565b506200028a9291506200028e565b5090565b5b808211156200028a57600081556001016200028f565b600181811c90821680620002ba57607f821691505b60208210811415620002dc57634e487b7160e01b600052602260045260246000fd5b50919050565b6120cd80620002f26000396000f3fe60806040526004361061020f5760003560e01c80636352211e11610118578063a45ba8e7116100a0578063d5abeb011161006f578063d5abeb01146105c9578063e0a80853146105df578063e985e9c5146105ff578063efbd73f414610648578063f2fde38b1461066857600080fd5b8063a45ba8e714610554578063b071401b14610569578063b88d4fde14610589578063c87b56dd146105a957600080fd5b80638da5cb5b116100e75780638da5cb5b146104d857806394354fd0146104f657806395d89b411461050c578063a0712d6814610521578063a22cb4651461053457600080fd5b80636352211e1461046357806370a0823114610483578063715018a6146104a35780637ec4a659146104b857600080fd5b80633ccfd60b1161019b5780634fdd43cb1161016a5780634fdd43cb146103e057806351830227146104005780635503a0e81461041f5780635c975abb1461043457806362b99ad41461044e57600080fd5b80633ccfd60b1461035e57806342842e0e14610373578063438b63001461039357806344a0d68a146103c057600080fd5b806313faede6116101e257806313faede6146102c557806316ba10e0146102e957806316c38b3c1461030957806318160ddd1461032957806323b872dd1461033e57600080fd5b806301ffc9a71461021457806306fdde0314610249578063081812fc1461026b578063095ea7b3146102a3575b600080fd5b34801561022057600080fd5b5061023461022f366004611c4e565b610688565b60405190151581526020015b60405180910390f35b34801561025557600080fd5b5061025e6106da565b6040516102409190611e7e565b34801561027757600080fd5b5061028b610286366004611cd1565b61076c565b6040516001600160a01b039091168152602001610240565b3480156102af57600080fd5b506102c36102be366004611c09565b610793565b005b3480156102d157600080fd5b506102db600b5481565b604051908152602001610240565b3480156102f557600080fd5b506102c3610304366004611c88565b6108ae565b34801561031557600080fd5b506102c3610324366004611c33565b6108cd565b34801561033557600080fd5b506102db6108e8565b34801561034a57600080fd5b506102c3610359366004611b27565b6108f8565b34801561036a57600080fd5b506102c3610929565b34801561037f57600080fd5b506102c361038e366004611b27565b6109a5565b34801561039f57600080fd5b506103b36103ae366004611ad9565b6109c0565b6040516102409190611e3a565b3480156103cc57600080fd5b506102c36103db366004611cd1565b610aa1565b3480156103ec57600080fd5b506102c36103fb366004611c88565b610aae565b34801561040c57600080fd5b50600e5461023490610100900460ff1681565b34801561042b57600080fd5b5061025e610ac9565b34801561044057600080fd5b50600e546102349060ff1681565b34801561045a57600080fd5b5061025e610b57565b34801561046f57600080fd5b5061028b61047e366004611cd1565b610b64565b34801561048f57600080fd5b506102db61049e366004611ad9565b610bc4565b3480156104af57600080fd5b506102c3610c4a565b3480156104c457600080fd5b506102c36104d3366004611c88565b610c5e565b3480156104e457600080fd5b506006546001600160a01b031661028b565b34801561050257600080fd5b506102db600d5481565b34801561051857600080fd5b5061025e610c79565b6102c361052f366004611cd1565b610c88565b34801561054057600080fd5b506102c361054f366004611bdf565b610dea565b34801561056057600080fd5b5061025e610df5565b34801561057557600080fd5b506102c3610584366004611cd1565b610e02565b34801561059557600080fd5b506102c36105a4366004611b63565b610e0f565b3480156105b557600080fd5b5061025e6105c4366004611cd1565b610e47565b3480156105d557600080fd5b506102db600c5481565b3480156105eb57600080fd5b506102c36105fa366004611c33565b610fc6565b34801561060b57600080fd5b5061023461061a366004611af4565b6001600160a01b03918216600090815260056020908152604080832093909416825291909152205460ff1690565b34801561065457600080fd5b506102c3610663366004611cea565b610fe8565b34801561067457600080fd5b506102c3610683366004611ad9565b6110ac565b60006001600160e01b031982166380ac58cd60e01b14806106b957506001600160e01b03198216635b5e139f60e01b145b806106d457506301ffc9a760e01b6001600160e01b03198316145b92915050565b6060600080546106e990611fbf565b80601f016020809104026020016040519081016040528092919081815260200182805461071590611fbf565b80156107625780601f1061073757610100808354040283529160200191610762565b820191906000526020600020905b81548152906001019060200180831161074557829003601f168201915b5050505050905090565b600061077782611122565b506000908152600460205260409020546001600160a01b031690565b600061079e82610b64565b9050806001600160a01b0316836001600160a01b031614156108115760405162461bcd60e51b815260206004820152602160248201527f4552433732313a20617070726f76616c20746f2063757272656e74206f776e656044820152603960f91b60648201526084015b60405180910390fd5b336001600160a01b038216148061082d575061082d813361061a565b61089f5760405162461bcd60e51b815260206004820152603e60248201527f4552433732313a20617070726f76652063616c6c6572206973206e6f7420746f60448201527f6b656e206f776e6572206e6f7220617070726f76656420666f7220616c6c00006064820152608401610808565b6108a98383611181565b505050565b6108b66111ef565b80516108c990600990602084019061199e565b5050565b6108d56111ef565b600e805460ff1916911515919091179055565b60006108f360075490565b905090565b6109023382611249565b61091e5760405162461bcd60e51b815260040161080890611ee3565b6108a98383836112c8565b6109316111ef565b60006109456006546001600160a01b031690565b6001600160a01b03164760405160006040518083038185875af1925050503d806000811461098f576040519150601f19603f3d011682016040523d82523d6000602084013e610994565b606091505b50509050806109a257600080fd5b50565b6108a983838360405180602001604052806000815250610e0f565b606060006109cd83610bc4565b905060008167ffffffffffffffff8111156109ea576109ea61206b565b604051908082528060200260200182016040528015610a13578160200160208202803683370190505b509050600160005b8381108015610a2c5750600c548211155b15610a97576000610a3c83610b64565b9050866001600160a01b0316816001600160a01b03161415610a845782848381518110610a6b57610a6b612055565b602090810291909101015281610a8081611ffa565b9250505b82610a8e81611ffa565b93505050610a1b565b5090949350505050565b610aa96111ef565b600b55565b610ab66111ef565b80516108c990600a90602084019061199e565b60098054610ad690611fbf565b80601f0160208091040260200160405190810160405280929190818152602001828054610b0290611fbf565b8015610b4f5780601f10610b2457610100808354040283529160200191610b4f565b820191906000526020600020905b815481529060010190602001808311610b3257829003601f168201915b505050505081565b60088054610ad690611fbf565b6000818152600260205260408120546001600160a01b0316806106d45760405162461bcd60e51b8152602060048201526018602482015277115490cdcc8c4e881a5b9d985b1a59081d1bdad95b88125160421b6044820152606401610808565b60006001600160a01b038216610c2e5760405162461bcd60e51b815260206004820152602960248201527f4552433732313a2061646472657373207a65726f206973206e6f7420612076616044820152683634b21037bbb732b960b91b6064820152608401610808565b506001600160a01b031660009081526003602052604090205490565b610c526111ef565b610c5c6000611464565b565b610c666111ef565b80516108c990600890602084019061199e565b6060600180546106e990611fbf565b80600081118015610c9b5750600d548111155b610cde5760405162461bcd60e51b8152602060048201526014602482015273496e76616c6964206d696e7420616d6f756e742160601b6044820152606401610808565b600c5481610ceb60075490565b610cf59190611f31565b1115610d3a5760405162461bcd60e51b81526020600482015260146024820152734d617820737570706c792065786365656465642160601b6044820152606401610808565b600e5460ff1615610d8d5760405162461bcd60e51b815260206004820152601760248201527f54686520636f6e747261637420697320706175736564210000000000000000006044820152606401610808565b81600b54610d9b9190611f5d565b341015610de05760405162461bcd60e51b8152602060048201526013602482015272496e73756666696369656e742066756e64732160681b6044820152606401610808565b6108c933836114b6565b6108c93383836114f3565b600a8054610ad690611fbf565b610e0a6111ef565b600d55565b610e193383611249565b610e355760405162461bcd60e51b815260040161080890611ee3565b610e41848484846115c2565b50505050565b6000818152600260205260409020546060906001600160a01b0316610ec65760405162461bcd60e51b815260206004820152602f60248201527f4552433732314d657461646174613a2055524920717565727920666f72206e6f60448201526e3732bc34b9ba32b73a103a37b5b2b760891b6064820152608401610808565b600e54610100900460ff16610f6757600a8054610ee290611fbf565b80601f0160208091040260200160405190810160405280929190818152602001828054610f0e90611fbf565b8015610f5b5780601f10610f3057610100808354040283529160200191610f5b565b820191906000526020600020905b815481529060010190602001808311610f3e57829003601f168201915b50505050509050919050565b6000610f716115f5565b90506000815111610f915760405180602001604052806000815250610fbf565b80610f9b84611604565b6009604051602001610faf93929190611d39565b6040516020818303038152906040525b9392505050565b610fce6111ef565b600e80549115156101000261ff0019909216919091179055565b81600081118015610ffb5750600d548111155b61103e5760405162461bcd60e51b8152602060048201526014602482015273496e76616c6964206d696e7420616d6f756e742160601b6044820152606401610808565b600c548161104b60075490565b6110559190611f31565b111561109a5760405162461bcd60e51b81526020600482015260146024820152734d617820737570706c792065786365656465642160601b6044820152606401610808565b6110a26111ef565b6108a982846114b6565b6110b46111ef565b6001600160a01b0381166111195760405162461bcd60e51b815260206004820152602660248201527f4f776e61626c653a206e6577206f776e657220697320746865207a65726f206160448201526564647265737360d01b6064820152608401610808565b6109a281611464565b6000818152600260205260409020546001600160a01b03166109a25760405162461bcd60e51b8152602060048201526018602482015277115490cdcc8c4e881a5b9d985b1a59081d1bdad95b88125160421b6044820152606401610808565b600081815260046020526040902080546001600160a01b0319166001600160a01b03841690811790915581906111b682610b64565b6001600160a01b03167f8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b92560405160405180910390a45050565b6006546001600160a01b03163314610c5c5760405162461bcd60e51b815260206004820181905260248201527f4f776e61626c653a2063616c6c6572206973206e6f7420746865206f776e65726044820152606401610808565b60008061125583610b64565b9050806001600160a01b0316846001600160a01b0316148061129c57506001600160a01b0380821660009081526005602090815260408083209388168352929052205460ff165b806112c05750836001600160a01b03166112b58461076c565b6001600160a01b0316145b949350505050565b826001600160a01b03166112db82610b64565b6001600160a01b03161461133f5760405162461bcd60e51b815260206004820152602560248201527f4552433732313a207472616e736665722066726f6d20696e636f72726563742060448201526437bbb732b960d91b6064820152608401610808565b6001600160a01b0382166113a15760405162461bcd60e51b8152602060048201526024808201527f4552433732313a207472616e7366657220746f20746865207a65726f206164646044820152637265737360e01b6064820152608401610808565b6113ac600082611181565b6001600160a01b03831660009081526003602052604081208054600192906113d5908490611f7c565b90915550506001600160a01b0382166000908152600360205260408120805460019290611403908490611f31565b909155505060008181526002602052604080822080546001600160a01b0319166001600160a01b0386811691821790925591518493918716917fddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef91a4505050565b600680546001600160a01b038381166001600160a01b0319831681179093556040519116919082907f8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e090600090a35050565b60005b818110156108a9576114cf600780546001019055565b6114e1836114dc60075490565b611702565b806114eb81611ffa565b9150506114b9565b816001600160a01b0316836001600160a01b031614156115555760405162461bcd60e51b815260206004820152601960248201527f4552433732313a20617070726f766520746f2063616c6c6572000000000000006044820152606401610808565b6001600160a01b03838116600081815260056020908152604080832094871680845294825291829020805460ff191686151590811790915591519182527f17307eab39ab6107e8899845ad3d59bd9653f200f220920489ca2b5937696c31910160405180910390a3505050565b6115cd8484846112c8565b6115d98484848461171c565b610e415760405162461bcd60e51b815260040161080890611e91565b6060600880546106e990611fbf565b6060816116285750506040805180820190915260018152600360fc1b602082015290565b8160005b8115611652578061163c81611ffa565b915061164b9050600a83611f49565b915061162c565b60008167ffffffffffffffff81111561166d5761166d61206b565b6040519080825280601f01601f191660200182016040528015611697576020820181803683370190505b5090505b84156112c0576116ac600183611f7c565b91506116b9600a86612015565b6116c4906030611f31565b60f81b8183815181106116d9576116d9612055565b60200101906001600160f81b031916908160001a9053506116fb600a86611f49565b945061169b565b6108c9828260405180602001604052806000815250611829565b60006001600160a01b0384163b1561181e57604051630a85bd0160e11b81526001600160a01b0385169063150b7a0290611760903390899088908890600401611dfd565b602060405180830381600087803b15801561177a57600080fd5b505af19250505080156117aa575060408051601f3d908101601f191682019092526117a791810190611c6b565b60015b611804573d8080156117d8576040519150601f19603f3d011682016040523d82523d6000602084013e6117dd565b606091505b5080516117fc5760405162461bcd60e51b815260040161080890611e91565b805181602001fd5b6001600160e01b031916630a85bd0160e11b1490506112c0565b506001949350505050565b611833838361185c565b611840600084848461171c565b6108a95760405162461bcd60e51b815260040161080890611e91565b6001600160a01b0382166118b25760405162461bcd60e51b815260206004820181905260248201527f4552433732313a206d696e7420746f20746865207a65726f20616464726573736044820152606401610808565b6000818152600260205260409020546001600160a01b0316156119175760405162461bcd60e51b815260206004820152601c60248201527f4552433732313a20746f6b656e20616c7265616479206d696e746564000000006044820152606401610808565b6001600160a01b0382166000908152600360205260408120805460019290611940908490611f31565b909155505060008181526002602052604080822080546001600160a01b0319166001600160a01b03861690811790915590518392907fddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef908290a45050565b8280546119aa90611fbf565b90600052602060002090601f0160209004810192826119cc5760008555611a12565b82601f106119e557805160ff1916838001178555611a12565b82800160010185558215611a12579182015b82811115611a125782518255916020019190600101906119f7565b50611a1e929150611a22565b5090565b5b80821115611a1e5760008155600101611a23565b600067ffffffffffffffff80841115611a5257611a5261206b565b604051601f8501601f19908116603f01168101908282118183101715611a7a57611a7a61206b565b81604052809350858152868686011115611a9357600080fd5b858560208301376000602087830101525050509392505050565b80356001600160a01b0381168114611ac457600080fd5b919050565b80358015158114611ac457600080fd5b600060208284031215611aeb57600080fd5b610fbf82611aad565b60008060408385031215611b0757600080fd5b611b1083611aad565b9150611b1e60208401611aad565b90509250929050565b600080600060608486031215611b3c57600080fd5b611b4584611aad565b9250611b5360208501611aad565b9150604084013590509250925092565b60008060008060808587031215611b7957600080fd5b611b8285611aad565b9350611b9060208601611aad565b925060408501359150606085013567ffffffffffffffff811115611bb357600080fd5b8501601f81018713611bc457600080fd5b611bd387823560208401611a37565b91505092959194509250565b60008060408385031215611bf257600080fd5b611bfb83611aad565b9150611b1e60208401611ac9565b60008060408385031215611c1c57600080fd5b611c2583611aad565b946020939093013593505050565b600060208284031215611c4557600080fd5b610fbf82611ac9565b600060208284031215611c6057600080fd5b8135610fbf81612081565b600060208284031215611c7d57600080fd5b8151610fbf81612081565b600060208284031215611c9a57600080fd5b813567ffffffffffffffff811115611cb157600080fd5b8201601f81018413611cc257600080fd5b6112c084823560208401611a37565b600060208284031215611ce357600080fd5b5035919050565b60008060408385031215611cfd57600080fd5b82359150611b1e60208401611aad565b60008151808452611d25816020860160208601611f93565b601f01601f19169290920160200192915050565b600084516020611d4c8285838a01611f93565b855191840191611d5f8184848a01611f93565b8554920191600090600181811c9080831680611d7c57607f831692505b858310811415611d9a57634e487b7160e01b85526022600452602485fd5b808015611dae5760018114611dbf57611dec565b60ff19851688528388019550611dec565b60008b81526020902060005b85811015611de45781548a820152908401908801611dcb565b505083880195505b50939b9a5050505050505050505050565b6001600160a01b0385811682528416602082015260408101839052608060608201819052600090611e3090830184611d0d565b9695505050505050565b6020808252825182820181905260009190848201906040850190845b81811015611e7257835183529284019291840191600101611e56565b50909695505050505050565b602081526000610fbf6020830184611d0d565b60208082526032908201527f4552433732313a207472616e7366657220746f206e6f6e20455243373231526560408201527131b2b4bb32b91034b6b83632b6b2b73a32b960711b606082015260800190565b6020808252602e908201527f4552433732313a2063616c6c6572206973206e6f7420746f6b656e206f776e6560408201526d1c881b9bdc88185c1c1c9bdd995960921b606082015260800190565b60008219821115611f4457611f44612029565b500190565b600082611f5857611f5861203f565b500490565b6000816000190483118215151615611f7757611f77612029565b500290565b600082821015611f8e57611f8e612029565b500390565b60005b83811015611fae578181015183820152602001611f96565b83811115610e415750506000910152565b600181811c90821680611fd357607f821691505b60208210811415611ff457634e487b7160e01b600052602260045260246000fd5b50919050565b600060001982141561200e5761200e612029565b5060010190565b6000826120245761202461203f565b500690565b634e487b7160e01b600052601160045260246000fd5b634e487b7160e01b600052601260045260246000fd5b634e487b7160e01b600052603260045260246000fd5b634e487b7160e01b600052604160045260246000fd5b6001600160e01b0319811681146109a257600080fdfea26469706673582212209e6d1a1a2ea26ee2fbcfaa61949eefd127feabfa2e16e1be2832cd7ff620721664736f6c63430008070033697066733a2f2f516d644c4d5341597a6d556f63794550424d63636875675171617732506a6974786f6168707841467773454c357a
+
+[
+    {
+        "inputs": [],
+        "stateMutability": "nonpayable",
+        "type": "constructor"
+    },
+    {
+        "anonymous": false,
+        "inputs": [
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "owner",
+                "type": "address"
+            },
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "approved",
+                "type": "address"
+            },
+            {
+                "indexed": true,
+                "internalType": "uint256",
+                "name": "tokenId",
+                "type": "uint256"
+            }
+        ],
+        "name": "Approval",
+        "type": "event"
+    },
+    {
+        "anonymous": false,
+        "inputs": [
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "owner",
+                "type": "address"
+            },
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "operator",
+                "type": "address"
+            },
+            {
+                "indexed": false,
+                "internalType": "bool",
+                "name": "approved",
+                "type": "bool"
+            }
+        ],
+        "name": "ApprovalForAll",
+        "type": "event"
+    },
+    {
+        "anonymous": false,
+        "inputs": [
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "previousOwner",
+                "type": "address"
+            },
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "newOwner",
+                "type": "address"
+            }
+        ],
+        "name": "OwnershipTransferred",
+        "type": "event"
+    },
+    {
+        "anonymous": false,
+        "inputs": [
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "from",
+                "type": "address"
+            },
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "to",
+                "type": "address"
+            },
+            {
+                "indexed": true,
+                "internalType": "uint256",
+                "name": "tokenId",
+                "type": "uint256"
+            }
+        ],
+        "name": "Transfer",
+        "type": "event"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "to",
+                "type": "address"
+            },
+            {
+                "internalType": "uint256",
+                "name": "tokenId",
+                "type": "uint256"
+            }
+        ],
+        "name": "approve",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "owner",
+                "type": "address"
+            }
+        ],
+        "name": "balanceOf",
+        "outputs": [
+            {
+                "internalType": "uint256",
+                "name": "",
+                "type": "uint256"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "cost",
+        "outputs": [
+            {
+                "internalType": "uint256",
+                "name": "",
+                "type": "uint256"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint256",
+                "name": "tokenId",
+                "type": "uint256"
+            }
+        ],
+        "name": "getApproved",
+        "outputs": [
+            {
+                "internalType": "address",
+                "name": "",
+                "type": "address"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "hiddenMetadataUri",
+        "outputs": [
+            {
+                "internalType": "string",
+                "name": "",
+                "type": "string"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "owner",
+                "type": "address"
+            },
+            {
+                "internalType": "address",
+                "name": "operator",
+                "type": "address"
+            }
+        ],
+        "name": "isApprovedForAll",
+        "outputs": [
+            {
+                "internalType": "bool",
+                "name": "",
+                "type": "bool"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "maxMintAmountPerTx",
+        "outputs": [
+            {
+                "internalType": "uint256",
+                "name": "",
+                "type": "uint256"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "maxSupply",
+        "outputs": [
+            {
+                "internalType": "uint256",
+                "name": "",
+                "type": "uint256"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint256",
+                "name": "_mintAmount",
+                "type": "uint256"
+            }
+        ],
+        "name": "mint",
+        "outputs": [],
+        "stateMutability": "payable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint256",
+                "name": "_mintAmount",
+                "type": "uint256"
+            },
+            {
+                "internalType": "address",
+                "name": "_receiver",
+                "type": "address"
+            }
+        ],
+        "name": "mintForAddress",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "name",
+        "outputs": [
+            {
+                "internalType": "string",
+                "name": "",
+                "type": "string"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "owner",
+        "outputs": [
+            {
+                "internalType": "address",
+                "name": "",
+                "type": "address"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint256",
+                "name": "tokenId",
+                "type": "uint256"
+            }
+        ],
+        "name": "ownerOf",
+        "outputs": [
+            {
+                "internalType": "address",
+                "name": "",
+                "type": "address"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "paused",
+        "outputs": [
+            {
+                "internalType": "bool",
+                "name": "",
+                "type": "bool"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "renounceOwnership",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "revealed",
+        "outputs": [
+            {
+                "internalType": "bool",
+                "name": "",
+                "type": "bool"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "from",
+                "type": "address"
+            },
+            {
+                "internalType": "address",
+                "name": "to",
+                "type": "address"
+            },
+            {
+                "internalType": "uint256",
+                "name": "tokenId",
+                "type": "uint256"
+            }
+        ],
+        "name": "safeTransferFrom",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "from",
+                "type": "address"
+            },
+            {
+                "internalType": "address",
+                "name": "to",
+                "type": "address"
+            },
+            {
+                "internalType": "uint256",
+                "name": "tokenId",
+                "type": "uint256"
+            },
+            {
+                "internalType": "bytes",
+                "name": "data",
+                "type": "bytes"
+            }
+        ],
+        "name": "safeTransferFrom",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "operator",
+                "type": "address"
+            },
+            {
+                "internalType": "bool",
+                "name": "approved",
+                "type": "bool"
+            }
+        ],
+        "name": "setApprovalForAll",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint256",
+                "name": "_cost",
+                "type": "uint256"
+            }
+        ],
+        "name": "setCost",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "string",
+                "name": "_hiddenMetadataUri",
+                "type": "string"
+            }
+        ],
+        "name": "setHiddenMetadataUri",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint256",
+                "name": "_maxMintAmountPerTx",
+                "type": "uint256"
+            }
+        ],
+        "name": "setMaxMintAmountPerTx",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "bool",
+                "name": "_state",
+                "type": "bool"
+            }
+        ],
+        "name": "setPaused",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "bool",
+                "name": "_state",
+                "type": "bool"
+            }
+        ],
+        "name": "setRevealed",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "string",
+                "name": "_uriPrefix",
+                "type": "string"
+            }
+        ],
+        "name": "setUriPrefix",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "string",
+                "name": "_uriSuffix",
+                "type": "string"
+            }
+        ],
+        "name": "setUriSuffix",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "bytes4",
+                "name": "interfaceId",
+                "type": "bytes4"
+            }
+        ],
+        "name": "supportsInterface",
+        "outputs": [
+            {
+                "internalType": "bool",
+                "name": "",
+                "type": "bool"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "symbol",
+        "outputs": [
+            {
+                "internalType": "string",
+                "name": "",
+                "type": "string"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint256",
+                "name": "_tokenId",
+                "type": "uint256"
+            }
+        ],
+        "name": "tokenURI",
+        "outputs": [
+            {
+                "internalType": "string",
+                "name": "",
+                "type": "string"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "totalSupply",
+        "outputs": [
+            {
+                "internalType": "uint256",
+                "name": "",
+                "type": "uint256"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "from",
+                "type": "address"
+            },
+            {
+                "internalType": "address",
+                "name": "to",
+                "type": "address"
+            },
+            {
+                "internalType": "uint256",
+                "name": "tokenId",
+                "type": "uint256"
+            }
+        ],
+        "name": "transferFrom",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "newOwner",
+                "type": "address"
+            }
+        ],
+        "name": "transferOwnership",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "uriPrefix",
+        "outputs": [
+            {
+                "internalType": "string",
+                "name": "",
+                "type": "string"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "uriSuffix",
+        "outputs": [
+            {
+                "internalType": "string",
+                "name": "",
+                "type": "string"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "_owner",
+                "type": "address"
+            }
+        ],
+        "name": "walletOfOwner",
+        "outputs": [
+            {
+                "internalType": "uint256[]",
+                "name": "",
+                "type": "uint256[]"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "withdraw",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    }
+]
+
+
+[
+    {
+        "inputs": [],
+        "stateMutability": "nonpayable",
+        "type": "constructor"
+    },
+    {
+        "anonymous": false,
+        "inputs": [
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "owner",
+                "type": "address"
+            },
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "approved",
+                "type": "address"
+            },
+            {
+                "indexed": true,
+                "internalType": "uint256",
+                "name": "tokenId",
+                "type": "uint256"
+            }
+        ],
+        "name": "Approval",
+        "type": "event"
+    },
+    {
+        "anonymous": false,
+        "inputs": [
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "owner",
+                "type": "address"
+            },
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "operator",
+                "type": "address"
+            },
+            {
+                "indexed": false,
+                "internalType": "bool",
+                "name": "approved",
+                "type": "bool"
+            }
+        ],
+        "name": "ApprovalForAll",
+        "type": "event"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "to",
+                "type": "address"
+            },
+            {
+                "internalType": "uint256",
+                "name": "tokenId",
+                "type": "uint256"
+            }
+        ],
+        "name": "approve",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint256",
+                "name": "_mintAmount",
+                "type": "uint256"
+            }
+        ],
+        "name": "mint",
+        "outputs": [],
+        "stateMutability": "payable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint256",
+                "name": "_mintAmount",
+                "type": "uint256"
+            },
+            {
+                "internalType": "address",
+                "name": "_receiver",
+                "type": "address"
+            }
+        ],
+        "name": "mintForAddress",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "anonymous": false,
+        "inputs": [
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "previousOwner",
+                "type": "address"
+            },
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "newOwner",
+                "type": "address"
+            }
+        ],
+        "name": "OwnershipTransferred",
+        "type": "event"
+    },
+    {
+        "inputs": [],
+        "name": "renounceOwnership",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "from",
+                "type": "address"
+            },
+            {
+                "internalType": "address",
+                "name": "to",
+                "type": "address"
+            },
+            {
+                "internalType": "uint256",
+                "name": "tokenId",
+                "type": "uint256"
+            }
+        ],
+        "name": "safeTransferFrom",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "from",
+                "type": "address"
+            },
+            {
+                "internalType": "address",
+                "name": "to",
+                "type": "address"
+            },
+            {
+                "internalType": "uint256",
+                "name": "tokenId",
+                "type": "uint256"
+            },
+            {
+                "internalType": "bytes",
+                "name": "data",
+                "type": "bytes"
+            }
+        ],
+        "name": "safeTransferFrom",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "operator",
+                "type": "address"
+            },
+            {
+                "internalType": "bool",
+                "name": "approved",
+                "type": "bool"
+            }
+        ],
+        "name": "setApprovalForAll",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint256",
+                "name": "_cost",
+                "type": "uint256"
+            }
+        ],
+        "name": "setCost",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "string",
+                "name": "_hiddenMetadataUri",
+                "type": "string"
+            }
+        ],
+        "name": "setHiddenMetadataUri",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint256",
+                "name": "_maxMintAmountPerTx",
+                "type": "uint256"
+            }
+        ],
+        "name": "setMaxMintAmountPerTx",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "bool",
+                "name": "_state",
+                "type": "bool"
+            }
+        ],
+        "name": "setPaused",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "bool",
+                "name": "_state",
+                "type": "bool"
+            }
+        ],
+        "name": "setRevealed",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "string",
+                "name": "_uriPrefix",
+                "type": "string"
+            }
+        ],
+        "name": "setUriPrefix",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "string",
+                "name": "_uriSuffix",
+                "type": "string"
+            }
+        ],
+        "name": "setUriSuffix",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "anonymous": false,
+        "inputs": [
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "from",
+                "type": "address"
+            },
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "to",
+                "type": "address"
+            },
+            {
+                "indexed": true,
+                "internalType": "uint256",
+                "name": "tokenId",
+                "type": "uint256"
+            }
+        ],
+        "name": "Transfer",
+        "type": "event"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "from",
+                "type": "address"
+            },
+            {
+                "internalType": "address",
+                "name": "to",
+                "type": "address"
+            },
+            {
+                "internalType": "uint256",
+                "name": "tokenId",
+                "type": "uint256"
+            }
+        ],
+        "name": "transferFrom",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "newOwner",
+                "type": "address"
+            }
+        ],
+        "name": "transferOwnership",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "withdraw",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "owner",
+                "type": "address"
+            }
+        ],
+        "name": "balanceOf",
+        "outputs": [
+            {
+                "internalType": "uint256",
+                "name": "",
+                "type": "uint256"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "cost",
+        "outputs": [
+            {
+                "internalType": "uint256",
+                "name": "",
+                "type": "uint256"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint256",
+                "name": "tokenId",
+                "type": "uint256"
+            }
+        ],
+        "name": "getApproved",
+        "outputs": [
+            {
+                "internalType": "address",
+                "name": "",
+                "type": "address"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "hiddenMetadataUri",
+        "outputs": [
+            {
+                "internalType": "string",
+                "name": "",
+                "type": "string"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "owner",
+                "type": "address"
+            },
+            {
+                "internalType": "address",
+                "name": "operator",
+                "type": "address"
+            }
+        ],
+        "name": "isApprovedForAll",
+        "outputs": [
+            {
+                "internalType": "bool",
+                "name": "",
+                "type": "bool"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "maxMintAmountPerTx",
+        "outputs": [
+            {
+                "internalType": "uint256",
+                "name": "",
+                "type": "uint256"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "maxSupply",
+        "outputs": [
+            {
+                "internalType": "uint256",
+                "name": "",
+                "type": "uint256"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "name",
+        "outputs": [
+            {
+                "internalType": "string",
+                "name": "",
+                "type": "string"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "owner",
+        "outputs": [
+            {
+                "internalType": "address",
+                "name": "",
+                "type": "address"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint256",
+                "name": "tokenId",
+                "type": "uint256"
+            }
+        ],
+        "name": "ownerOf",
+        "outputs": [
+            {
+                "internalType": "address",
+                "name": "",
+                "type": "address"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "paused",
+        "outputs": [
+            {
+                "internalType": "bool",
+                "name": "",
+                "type": "bool"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "revealed",
+        "outputs": [
+            {
+                "internalType": "bool",
+                "name": "",
+                "type": "bool"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "bytes4",
+                "name": "interfaceId",
+                "type": "bytes4"
+            }
+        ],
+        "name": "supportsInterface",
+        "outputs": [
+            {
+                "internalType": "bool",
+                "name": "",
+                "type": "bool"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "symbol",
+        "outputs": [
+            {
+                "internalType": "string",
+                "name": "",
+                "type": "string"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint256",
+                "name": "_tokenId",
+                "type": "uint256"
+            }
+        ],
+        "name": "tokenURI",
+        "outputs": [
+            {
+                "internalType": "string",
+                "name": "",
+                "type": "string"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "totalSupply",
+        "outputs": [
+            {
+                "internalType": "uint256",
+                "name": "",
+                "type": "uint256"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "uriPrefix",
+        "outputs": [
+            {
+                "internalType": "string",
+                "name": "",
+                "type": "string"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "uriSuffix",
+        "outputs": [
+            {
+                "internalType": "string",
+                "name": "",
+                "type": "string"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "_owner",
+                "type": "address"
+            }
+        ],
+        "name": "walletOfOwner",
+        "outputs": [
+            {
+                "internalType": "uint256[]",
+                "name": "",
+                "type": "uint256[]"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    }
+]
