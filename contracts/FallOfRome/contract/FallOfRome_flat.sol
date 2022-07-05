@@ -1386,7 +1386,7 @@ contract FallOfRome is ERC721, Ownable {
     bool public paused = false;
     bool public revealed = false;
 
-    constructor() ERC721("Fall of Rome v2", "ROME2") {
+    constructor() ERC721("Fall of Rome NFT", "ROME") {
         setHiddenMetadataUri(
             "ipfs://QmdLMSAYzmUocyEPBMcchugQqaw2PjitxoahpxAFwsEL5z"
         );
