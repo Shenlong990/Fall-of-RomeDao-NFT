@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xf5692afee2b9a2e8789c33ff4d18bfb27546cecf",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xf5692afee2b9a2e8789c33ff4d18bfb27546cecf",
+  "CONTRACT_ADDRESS": "0x15b66FA173c2244c77Fa7Dd9cd528E861b45800F",
+  "SCAN_LINK": "https://etherscan.io/token/0x15b66fa173c2244c77fa7dd9cd528e861b45800f",
   "NETWORK": {
-    "NAME": "Rinkeby",
-    "SYMBOL": "RinkebyETH",
-    "ID": 4
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
   },
-  "NFT_NAME": "Fall of Rome v2",
-  "SYMBOL": "ROME2",
+  "NFT_NAME": "Fall of Rome NFT",
+  "SYMBOL": "ROME",
   "MAX_SUPPLY": 2500,
   "WEI_COST": 0.0,
   "DISPLAY_COST": 0.0,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/fall-of-rome-v2",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/fall-of-rome-nft",
   "SHOW_BACKGROUND": true
 }

@@ -18,6 +18,6 @@ Hashlips repo: https://github.com/HashLips
 
 Shout out to DeveloperDao for getting me interested in web3 dev. https://github.com/Developer-DAO
 
-If i ever build a serious project, ROME holders will likely be Allowlisted i think. 
+If i ever build a serious project, ROME holders will likely be Allowlisted. 
 
 Thanks, Shen. 
